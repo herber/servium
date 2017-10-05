@@ -1,4 +1,4 @@
-# servium [![Build Status](https://travis-ci.org/tobihrbr/servium.svg?branch=master)](https://travis-ci.org/tobihrbr/servium) [![codecov](https://codecov.io/gh/tobihrbr/servium/badge.svg?branch=master)](https://codecov.io/gh/tobihrbr/servium?branch=master)
+# servium [![Build Status](https://travis-ci.org/herber/servium.svg?branch=master)](https://travis-ci.org/herber/servium) [![codecov](https://codecov.io/gh/tobihrbr/servium/badge.svg?branch=master)](https://codecov.io/gh/tobihrbr/servium?branch=master)
 
 > A small http server
 
