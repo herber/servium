@@ -1,0 +1,46 @@
+{
+	"name": "servium",
+	"version": "1.0.0",
+	"description": "A small http server",
+	"license": "MIT",
+	"repository": "tobihrbr/servium",
+	"author": {
+		"name": "Tobias Herber",
+		"email": "tobihrbr@gmail.com",
+		"url": "tobihrbr.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "nyc ava",
+		"lint": "fyi"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {
+		"route-parser": "0.0.5"
+	},
+	"devDependencies": {
+		"ava": "^0.20.0",
+		"codecov": "^2.2.0",
+		"fyi": "^1.0.1",
+		"node-fetch": "^1.7.3",
+		"nyc": "^11.0.0"
+	},
+	"nyc": {
+		"reporter": [
+			"lcov",
+			"text"
+		]
+	},
+	"fyi": {
+		"ignore": [
+			"coverage/**"
+		]
+	}
+}
