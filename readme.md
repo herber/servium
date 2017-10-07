@@ -20,7 +20,7 @@ app.use((req, res, next) => {
   next();
 });
 
-app.get('/paht', (req, res) => {
+app.get('/path', (req, res) => {
   res.end('response');
 });
 
