@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "A small http server",
 	"license": "MIT",
-	"repository": "tobihrbr/servium",
+	"repository": "herber/servium",
 	"author": {
 		"name": "Tobias Herber",
 		"email": "tobihrbr@gmail.com",
